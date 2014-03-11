@@ -4,14 +4,14 @@ This is a JavaScript implementation of the concepts presented in [1].
 
 It runs, provided all the links in the header of cpsNews.htm are restored.
 
-Requires jQuery and Jtemplates.
+Requires jQuery and jTemplates.
 
 ![GUI](/GUI.jpg "Look and Feel")
 
 DEBITS AND CREDITS
 ------------------
 [1] http://netbeans.dzone.com/articles/cleaner-mvc-by-continuation-passing
-[2] 
+
 
 Any feedback is welcome.
 
